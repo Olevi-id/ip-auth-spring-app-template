@@ -25,7 +25,7 @@ If you want to start from scratch, you can use Spring Initializr with same setti
 
 ### Olevi subscription
 
-To connect you application to Olevi you need clientId and clientSecret that you application will use to authenticate itself to Olevi. You need Olevi Identifier and subscription to register your application. By registering Olevi Identifier and applying for an subscription you enter to an agreement with Olevi that you comply with and follow agreement terms.
+To connect your application to Olevi you need _clientId_ and _clientSecret_ that your application will use to authenticate itself to Olevi. You need Olevi Identifier and Subscription to register your application. By registering Olevi Identifier and applying for an subscription you enter to an agreement with Olevi that you comply with and follow agreement terms.
 
 #### Olevi terms and conditions
 
@@ -72,7 +72,7 @@ While registering your client, you will need to register your client's _redirect
 
 If you can't imagine all hostanems you will need going forward, don't worry. You can always register new clients and disable old ones. Only actively enabled clients count against your subscriptions' allowance. Disabled clients will be removed automatically from Olevi after cooling period.
 
-### Start coding
+### Start Coding
 
 Now you are good to go. Do modifications and create your own features. Once you are ready or if you just like to see how it functions initially, do:
 
